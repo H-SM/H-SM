@@ -1,7 +1,8 @@
-<h2 align="left" ><a>HI _ HSM HERE</a></h2>
-<h4 align="left">A little coder starting to learn new things...</h4>
+<h2 align="left" ><em><cite> HI _ HSM HERE</cite></i></a></h2>
+<u><h3 align="left">A little coder starting to learn new things...</h3></u>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/deku-reading-comic-wintn3ky37koreln.webp">
 
+<code>cout<<"hope you like this"<<endl;</code>
 
 - 🌱 I’m currently learning **C++,JAVA & WEB DEVELOPMENT**
 
@@ -13,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hsmpaaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsmpaaji" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harmanmalht777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harmanmalht777" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hsm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hsm_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harmanmalht777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harmanmalht777" height="30" width="40" /></a>
+<a href="https://instagram.com/hsmpaaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsmpaaji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
