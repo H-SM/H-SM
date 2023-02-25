@@ -1,5 +1,5 @@
 <h2 align="left" ><em><cite> HI _ HSM HERE</cite></i></a></h2>
-<u><h3 align="left">A little coder starting to learn new things...</h3></u>
+<u><h3 align="left">reaching new hieghts every-day...</h3></u>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/deku-reading-comic-wintn3ky37koreln.webp">
 
 <code>cout<<"OLA!!!"<<endl;</code>
