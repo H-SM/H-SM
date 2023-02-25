@@ -2,15 +2,15 @@
 <u><h3 align="left">A little coder starting to learn new things...</h3></u>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/deku-reading-comic-wintn3ky37koreln.webp">
 
-<code>cout<<"hope you like this"<<endl;</code>
+<code>cout<<"OLA!!!"<<endl;</code>
 
-- 🌱 I’m currently learning **C++,JAVA & WEB DEVELOPMENT**
+- 🌱 I’m currently learning **REACT, DJANGO , REDUX**
 
 - 💬 Ask me about **anything you wanna know...**
 
 - 📫 How to reach me **harmanmalht777@gmail.com**
 
-- ⚡ Fun fact **I don't hate coding, just need practice and time to it...**
+- ⚡ Fun fact **I love Black Coffee...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
