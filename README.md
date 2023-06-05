@@ -1,4 +1,23 @@
-<h2 align="left" ><em><cite> HI _ HSM HERE</cite></i></a></h2>
+<h1></h1>
+<div id="header" align="center">
+  <img src="https://i.imgur.com/Qb5mE89.gif" width="300"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/harman-singh-hsm/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCvcwWk3pDhYg12QynQFNJXw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="mailto:harmanmalht777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=H-SM&style=flat-square&color=5c77d6" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+</h1>
+</div>
 <u><h3 align="left">reaching new hieghts every-day...</h3></u>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/deku-reading-comic-wintn3ky37koreln.webp">
 
