@@ -24,9 +24,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 </h1>
 </div>
-<!-- <div align="center"> -->
 <!--   <img src="https://i.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.webp" width="600"/> -->
-<!-- </div> -->
+
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/deku-reading-comic-wintn3ky37koreln.webp" >
 
 ### :man_technologist: About Me :
