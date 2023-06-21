@@ -67,6 +67,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="cplusplus" />
+  
 <!--   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="cplusplus" /> -->
   
   
@@ -85,7 +87,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github-readme-stats.vercel.app/api?username=h-sm&show_icons=true&locale=en&theme=gotham" alt="h-sm" width="494"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-sm&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-sm&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H-SM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="650"/>
 </p>
   
   <a href="https://github.com/H-SM">
