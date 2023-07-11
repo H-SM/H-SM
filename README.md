@@ -30,7 +30,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 I’m currently learning **DJANGO, REDUX**
+- 🌱 I’m currently learning **PRISMA, NEXT**
 - 💬 Tending to make a few **web-applications**
 - :thumbsup: I am a **graphic designer**
 - :coffee: **I love Black Coffee...**
