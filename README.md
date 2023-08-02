@@ -93,12 +93,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-sm&theme=gotham" alt="h-sm" />
   <img src="https://github-readme-stats.vercel.app/api?username=h-sm&show_icons=true&locale=en&theme=gotham" alt="h-sm"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H-SM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="650"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-sm&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
+</p>
+
+<p align="center">
 </p>
   
   <a href="https://github.com/H-SM">
@@ -115,6 +113,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=H-SM&color=5c77d6" alt=""/>
-</div>
+  </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H-SM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="650"/>
+</p>
 <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1ae10a8787aa4a8e7d434ff7ecb5d47695e1c7c7fee85253fb6b54f260eef95/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67"><img src="https://camo.githubusercontent.com/c1ae10a8787aa4a8e7d434ff7ecb5d47695e1c7c7fee85253fb6b54f260eef95/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=110&amp;section=footer&amp;animation=twinkling" style="max-width: 100%;"></a>
    -->
