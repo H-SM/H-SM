@@ -93,10 +93,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-sm&theme=gotham" alt="h-sm" />
   <img src="https://github-readme-stats.vercel.app/api?username=h-sm&show_icons=true&locale=en&theme=gotham" alt="h-sm"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-sm&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-sm&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
 </p>
   
   <a href="https://github.com/H-SM">
