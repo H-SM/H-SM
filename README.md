@@ -98,6 +98,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-sm&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
 </p>
+
+  [![An image of @hsm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hsm)](https://holopin.io/@hsm)
   
   <a href="https://github.com/H-SM">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
