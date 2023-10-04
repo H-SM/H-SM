@@ -85,7 +85,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-sm&theme=gotham" alt="h-sm" />
+<!--   LOOK OVER WHY THIS ONE ISN'T WORKING -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-sm&theme=gotham" alt="h-sm" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=h-sm&show_icons=true&locale=en&theme=gotham" alt="h-sm"/>
 </p>
 
