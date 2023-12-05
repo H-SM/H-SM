@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <h1></h1>
 <div align="center">
-<h3 align="center">:globe_with_meridians: Languages and Tools :globe_with_meridians:</h3>
+<h3 align="center">🌐 Languages and Tools 🌐</h3>
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
@@ -81,7 +81,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <h1></h1>
 
   
-### :point_right: My Stats :point_left:
+### 👉 My Stats 👈
 
 
 <p align="center" >
