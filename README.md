@@ -14,9 +14,9 @@
   <a href="mailto:harmanmalht777@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Badge"/>
   </a>
-  <a href="https://www.instagram.com/hsmpaaji/?hl=en">
+<!--   <a href="https://www.instagram.com/hsmpaaji/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a> -->
 </div>
   <h1 align="center">
     
