@@ -66,18 +66,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="cplusplus" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="cplusplus" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="cplusplus" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="cplusplus" />
-  <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" alt="cplusplus" />
+  <img src="https://camo.githubusercontent.com/1554758fcc0355856e95ac5b0559f486103eb78ee52c2135384712204f5db4f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682532304c696e75782d3137393344313f6c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765" alt="cplusplus" />
  <h1></h1>
 
   
