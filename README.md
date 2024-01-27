@@ -72,7 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="cplusplus" />
-  <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="cplusplus" />
   <img src="https://camo.githubusercontent.com/1554758fcc0355856e95ac5b0559f486103eb78ee52c2135384712204f5db4f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682532304c696e75782d3137393344313f6c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765" alt="cplusplus" />
  <h1></h1>
