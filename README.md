@@ -5,15 +5,24 @@
   <a href="https://www.linkedin.com/in/harman-singh-hsm/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCvcwWk3pDhYg12QynQFNJXw">
+<!--   <a href="https://www.youtube.com/channel/UCvcwWk3pDhYg12QynQFNJXw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
   <a href="mailto:harmanmalht777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="mailto:harmanmalht777@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Badge"/>
+  <a href="https://github.com/H-SM">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/H-SM">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/hsm_">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+<!--   <a href="mailto:harmanmalht777@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Badge"/>
+  </a> -->
 <!--    <a href="https://www.instagram.com/hsmpaaji/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> -->
@@ -93,23 +102,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   [![An image of @hsm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hsm)](https://holopin.io/@hsm)
   
-  <a href="https://github.com/H-SM">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/H-SM">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/hsm_">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/9m5r99zyz8uow0us14xu2vhg1?si=33a87c12bb0e4ba1">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=H-SM&color=5c77d6" alt=""/>
-  </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H-SM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="650"/>
 </p>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=H-SM&color=5c77d6" alt=""/>
+  </p>
 <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1ae10a8787aa4a8e7d434ff7ecb5d47695e1c7c7fee85253fb6b54f260eef95/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67"><img src="https://camo.githubusercontent.com/c1ae10a8787aa4a8e7d434ff7ecb5d47695e1c7c7fee85253fb6b54f260eef95/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3131302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=110&amp;section=footer&amp;animation=twinkling" style="max-width: 100%;"></a>
    -->
