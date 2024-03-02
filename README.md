@@ -78,7 +78,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tf" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whitehttps://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whitehttps://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whitehttps://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
+  <img src="https://camo.githubusercontent.com/bf590679058d9d1074a82721726ea4a5bf048b4b8cce82d01ba8ca32585e0298/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="postgres" />
   <img src="https://camo.githubusercontent.com/1554758fcc0355856e95ac5b0559f486103eb78ee52c2135384712204f5db4f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682532304c696e75782d3137393344313f6c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765" alt="linux" />
  <h1></h1>
 
