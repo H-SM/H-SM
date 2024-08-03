@@ -33,9 +33,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&random=false&width=435&lines=Hello+There!;This+is+HSM;A+Developer;A+Designer)](https://git.io/typing-svg) 
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 I’m currently learning **FIREBASE, PRISMA, NEXT**
-- 💬 Tending to make a few **web-applications**
-- :thumbsup: I am a **graphic designer**
+- 🌱 I’m currently learning **Knex, Prisma**
+- 💬 Tending to make a few **web solutions**
+- :thumbsup: I am a **"former" graphic designer**
 - :coffee: **I love Black Coffee...**
 ###
 <code>cout<<"OLA!!!"<<endl;</code>
