@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/Qb5mE89.gif" width="300"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/harman-singh-hsm/">
+  <a href="https://www.linkedin.com/in/hsmhere/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:harmanmalht777@gmail.com">
